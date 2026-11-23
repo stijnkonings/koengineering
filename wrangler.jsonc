@@ -1,0 +1,9 @@
+{
+  "name": "koengineering",
+  "compatibility_date": "2026-11-23",
+  "preview_urls": true,
+  "assets": {
+    "directory": "./public",
+    "html_handling": "force-trailing-slash"
+  }
+}
